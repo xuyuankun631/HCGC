@@ -1,5 +1,5 @@
 #  <p style="text-align: center;">HCGC</p>
-This is the code for our  paper "Hierarchical Contrastive Graph Clustering" (HCGC)
+This is the code for our TMM'26 paper "Hierarchical Contrastive Graph Clustering" (HCGC)
 
 # Paper
 https:
